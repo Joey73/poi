@@ -1,4 +1,4 @@
-package org.joerg.ExcelReader1;
+package org.joerg.excel.reader;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
