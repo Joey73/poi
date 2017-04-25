@@ -1,4 +1,4 @@
 poi
 ===
 
-Some Apache POI projects
+Some Apache POI tests
